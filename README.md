@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="rladies_logo.jpg" class = "logo" width= "200" >
+  <img src="imgs/rladies_logo.jpg" class = "logo" width= "200" >
 </p>
 
 # RLadies Saudi (Dammam)
