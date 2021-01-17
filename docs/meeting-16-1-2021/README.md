@@ -14,14 +14,6 @@ Here is the materials introduced in our online Meetup : **Create great data visu
 **Ilaria Torre** is a Postdoctoral Researcher at KTH Royal Institute of Technology and a part of the division of Robotics, Perception and Learning, as well as the WASP Expedition Project on Correct-by-design and Socially Acceptable Autonomy (CorSA). She studies how different characteristics of an artificial agent (e.g. voice, emotional expression, human-likeness, behaviour) affect human behaviour, specifically in terms of trust. She obtained a Ph.D. from the University of Plymouth, in the EU-funded CogNovo doctoral training centre, in 2017, where she investigated vocal predictors of behavioural trust in Human-Agent Interaction.
 
 #### :alarm_clock: 7PM - 8PM (GMT+3) in :round_pushpin: Zoom platform :point_right: [More details](https://www.meetup.com/rladies-dammam/events/275247259/)
-#### :bell: Reminders
-
-* [RStudio::global(2021)](https://rstudio.com/conference/): A 24-hour virtual event focused on all things R and RStudio, featuring 50+ speakers from around the world on January 21, 2021.
-
-* [Call for tutorials in UseR2021](https://user2021.r-project.org/participation/call-for-tutorials/): UseR! conferences are non-profit conferences organized by community volunteers for the community, supported by the R Foundation. The deadline for submission is Friday, Febraury 5, 2021.
-
-* [R Weekly](https://rweekly.org/): If you want your blog to reach a wider audience, consider submitting it to R Weekly. We accept articles written in different languages (not only English).
-
 
 #### :books: Extra Materials
 
@@ -31,10 +23,18 @@ Here is the materials introduced in our online Meetup : **Create great data visu
 
 * [Explore #TidyTuesday database collected by Silvia Canelón](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
 
-If you contributed to #TidyTuesday, add @RLadiesDammam, and we will retweet your tweet.
+If you contributed to **#TidyTuesday**, add **@RLadiesDammam**, and we will retweet your tweet.
 
 * [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
 
 * [ggpubr: Publication Ready Plots: Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/wiki.php?id_contents=7930)
+#### :bell: Reminders
+
+* [RStudio::global(2021)](https://rstudio.com/conference/): A 24-hour virtual event focused on all things R and RStudio, featuring 50+ speakers from around the world on January 21, 2021.
+
+* [Call for tutorials in UseR2021](https://user2021.r-project.org/participation/call-for-tutorials/): UseR! conferences are non-profit conferences organized by community volunteers for the community, supported by the R Foundation. The deadline for submission is Friday, Febraury 5, 2021.
+
+* [R Weekly](https://rweekly.org/): If you want your blog to reach a wider audience, consider submitting it to R Weekly. We accept articles written in different languages (not only English).
+
 
 **If you struggled to download/work with the materials/have any question regarding ggplot2, feel free to email me at batool@liverpool.ac.uk**
