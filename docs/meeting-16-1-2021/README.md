@@ -16,25 +16,25 @@ Here is the materials introduced in our online Meetup : **Create great data visu
 #### :alarm_clock: 7PM - 8PM (GMT+3) in :round_pushpin: Zoom platform :point_right: [More details](https://www.meetup.com/rladies-dammam/events/275247259/)
 #### :bell: Reminders
 
-[RStudio::global(2021)](https://rstudio.com/conference/): A 24-hour virtual event focused on all things R and RStudio, featuring 50+ speakers from around the world
+* [RStudio::global(2021)](https://rstudio.com/conference/): A 24-hour virtual event focused on all things R and RStudio, featuring 50+ speakers from around the world on January 21, 2021.
 
-[Call for tutorials in UseR2021](https://user2021.r-project.org/participation/call-for-tutorials/)
+* [Call for tutorials in UseR2021](https://user2021.r-project.org/participation/call-for-tutorials/): UseR! conferences are non-profit conferences organized by community volunteers for the community, supported by the R Foundation. The deadline for submission is Friday, Febraury 5, 2021.
 
-[R Weekly](https://rweekly.org/): If you want your blog to reach a wider audience, consider submitting it to R Weekly. We accept articles written in different languages (not only English)
+* [R Weekly](https://rweekly.org/): If you want your blog to reach a wider audience, consider submitting it to R Weekly. We accept articles written in different languages (not only English).
 
 
 #### :books: Extra Materials
 
-[This is a cool short video introduce R and ggplot2 for beginners](https://www.youtube.com/watch?v=ANMuuq502rE)
+* [This is a cool short video introduce R and ggplot2 for beginners](https://www.youtube.com/watch?v=ANMuuq502rE)
 
-[Explore ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
+* [Explore ggplot2 extensions](https://exts.ggplot2.tidyverse.org/gallery/)
 
-[Explore #TidyTuesday database collected by Silvia Canelón](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
+* [Explore #TidyTuesday database collected by Silvia Canelón](https://www.notion.so/Data-Viz-Bookmarks-dc01718020bd4fd6a8a4ca80e6bce933)
 
 If you contributed to #TidyTuesday, add @RLadiesDammam, and we will retweet your tweet.
 
-[ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
+* [ggplot2 Theme Elements Reference Sheet](https://isabella-b.com/blog/ggplot2-theme-elements-reference/)
 
-[ggpubr: Publication Ready Plots: Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/wiki.php?id_contents=7930)
+* [ggpubr: Publication Ready Plots: Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/wiki.php?id_contents=7930)
 
 **If you struggled to download/work with the materials/have any question regarding ggplot2, feel free to email me at batool@liverpool.ac.uk**
