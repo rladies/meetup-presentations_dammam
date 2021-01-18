@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="imgs/R-Ladies Logo.jpg" class = "logo" width= "500" >
+  <img src="imgs/R-Ladies Logo.jpg" class = "logo" width= "600" >
 </p>
 
 # RLadies Dammam Saudi Arabia
@@ -8,5 +8,5 @@ This repository collects information about R-Ladies Saudi chapter. All presentat
 
 ## :bell: Past Events
 
-* [Intro to R in 13-12-2021](https://github.com/rladies/meetup-presentations_dammam/blob/main/docs/meeting-13-1-2020/Learning-materials-in-arabic.md)
+* [Intro to R in 13-12-2020](https://github.com/rladies/meetup-presentations_dammam/blob/main/docs/meeting-13-1-2020/Learning-materials-in-arabic.md)
 * [Create great data visualisation with ggplot in 16-1-2021](https://github.com/rladies/meetup-presentations_dammam/tree/main/docs/meeting-16-1-2021)
